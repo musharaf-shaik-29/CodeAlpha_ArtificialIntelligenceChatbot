@@ -1,0 +1,10 @@
+hi=Hi there! How can I help you today?
+hello=Hello! How’s your day going?
+how are you=I'm functioning within optimal parameters! How about you?
+what is your name=I'm CodeAlphaBot, your Java-powered AI assistant.
+what do you do=I assist with basic questions and conversations.
+bye=Goodbye! Chat with you again soon.
+thanks=You're welcome! Always here to help.
+who created you=I was created as part of a CodeAlpha Java internship project.
+tell me a joke=Why don’t programmers like nature? Too many bugs!
+help=Sure! You can ask me about myself, say hi, or just chat!
