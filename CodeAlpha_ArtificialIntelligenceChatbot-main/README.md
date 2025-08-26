@@ -23,4 +23,4 @@ java -cp bin ChatBotGUI
 
 
 # 🎓 About
-Created by P Rama Krishna as part of the CodeAlpha Internship
+Created by shaik musharaf as part of the CodeAlpha Internship
